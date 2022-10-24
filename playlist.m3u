@@ -87,4 +87,20 @@ http://dmitry-tv.ddns.net:60/hls/okko/CH_TV1000.m3u8
 #EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 HD
 http://dmitry-tv.ddns.net:60/hls/okko/CH_TV1000HD.m3u8
 
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ИНДИЙСКОЕ КИНО
+http://dmitry-tv.ddns.net:60/hls/CH_INDIYSKOEKINO.m3u8
 
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОКОМЕДИЯ
+http://dmitry-tv.ddns.net:60/hls/CH_KINOKOMEDIYA.m3u8
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",РОДНОЕ КИНО
+http://dmitry-tv.ddns.net:60/hls/CH_RODNOEKINO.m3u8
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМИКС
+http://dmitry-tv.ddns.net:60/hls/CH_KINOMIKS.m3u8
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОХИТ
+http://dmitry-tv.ddns.net:60/hls/CH_KINOHIT.m3u8
+
+#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСЕРИЯ
+http://dmitry-tv.ddns.net:60/hls/CH_KINOSERIYA.m3u8
