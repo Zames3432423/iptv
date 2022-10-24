@@ -1,0 +1,37 @@
+#EXTM3U
+
+#EXTINF:-1 group-title="Детские",КАРУСЕЛЬ
+https://sc.id-tv.kz/Karusel.m3u8
+
+#EXTINF:-1 group-title="Детские",СТС KIDS HD
+https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
+
+#EXTINF:-1 group-title="Детские",ANI
+https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
+
+#EXTINF:-1 group-title="Детские",DA VINCHI KIDS
+https://sc.id-tv.kz/DaVinci.m3u8
+
+#EXTINF:-1 group-title="Детские",DuckTV HD
+https://okkotv-live.cdnvideo.ru/channel/DuckTV.m3u8
+
+#EXTINF:-1 group-title="Детские",NICKELODEON
+https://sc.id-tv.kz/Nickelodeon.m3u8
+
+#EXTINF:-1 group-title="Детские",TiJi
+https://sc.id-tv.kz/TiJi.m3u8
+
+#EXTINF:-1 group-title="Детские",Канал Disney
+https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
+
+#EXTINF:-1 group-title="Детские",МУЛЬТ
+https://bsttv.bonus-tv.ru/cdn/mult/playlist.m3u8
+
+#EXTINF:-1 group-title="Детские",МУЛЬТИЛАНДИЯ
+https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+
+#EXTINF:-1 group-title="Детские",Мультимузыка
+https://bsttv.bonus-tv.ru/cdn/multimuzika/playlist.m3u8
+
+
+
