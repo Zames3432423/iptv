@@ -3,35 +3,77 @@
 #EXTINF:-1 group-title="Детские",КАРУСЕЛЬ
 https://sc.id-tv.kz/Karusel.m3u8
 
-#EXTINF:-1 group-title="Детские",СТС KIDS HD
-https://okkotv-live.cdnvideo.ru/channel/CTC_Kids_HD.m3u8
-
-#EXTINF:-1 group-title="Детские",ANI
-https://bsttv.bonus-tv.ru/cdn/ani/playlist.m3u8
-
-#EXTINF:-1 group-title="Детские",DA VINCHI KIDS
-https://sc.id-tv.kz/DaVinci.m3u8
-
-#EXTINF:-1 group-title="Детские",DuckTV HD
-https://okkotv-live.cdnvideo.ru/channel/DuckTV.m3u8
-
-#EXTINF:-1 group-title="Детские",NICKELODEON
-https://sc.id-tv.kz/Nickelodeon.m3u8
-
-#EXTINF:-1 group-title="Детские",TiJi
-https://sc.id-tv.kz/TiJi.m3u8
-
 #EXTINF:-1 group-title="Детские",Канал Disney
 https://okkotv-live.cdnvideo.ru/channel/Disney.m3u8
 
-#EXTINF:-1 group-title="Детские",МУЛЬТ
-https://bsttv.bonus-tv.ru/cdn/mult/playlist.m3u8
+#EXTINF:-1 group-title="Детские",ДЕТСКИЙ МИР
+http://185.32.44.154/detskiymir/tracks-v1a1/index.m3u8
 
 #EXTINF:-1 group-title="Детские",МУЛЬТИЛАНДИЯ
-https://okkotv-live.cdnvideo.ru/channel/Multilandia_HD.m3u8
+http://185.32.44.154/Multilandia/tracks-v1a1/index.m3u8
 
-#EXTINF:-1 group-title="Детские",Мультимузыка
-https://bsttv.bonus-tv.ru/cdn/multimuzika/playlist.m3u8
+#EXTINF:-1 group-title="Детские",В ГОСТЯХ У СКАЗКИ
+http://185.32.44.154/mtvdance/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Детские",МУЛЬТ
+http://185.32.44.154/mult/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Детские",КАРУСЕЛЬ
+http://185.32.44.154/karusel/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Детские",МАМА
+http://185.32.44.154/mama/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ПЕРВЫЙ КАНАЛ
+http://185.32.44.154/perviy/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",РОССИЯ 1
+http://185.32.44.154/rossiya1/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",НТВ
+http://185.32.44.154/ntvplus/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",РЕН ТВ
+http://185.32.44.154/rentv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ДОМАШНИЙ
+http://185.32.44.154/domashniy/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",МИР
+http://185.32.44.154/mir/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ТНТ
+http://185.32.44.154/tnt/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",СТС
+http://185.32.44.154/ctc/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",СТС love
+http://185.32.44.154/ctclove/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",КВН ТВ
+http://185.32.44.154/kvntv/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Эфирные",ЧЕ
+http://185.32.44.154/ce/tracks-v1a1/index.m3u8
+
+#EXTINF:-1 group-title="Фильмы",ViP PREMIERE HD
+http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPPREMIEREHD.m3u8
+
+#EXTINF:-1 group-title="Фильмы",ViP MEGAHIT HD
+http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPMEGAHITHD.m3u8
+
+#EXTINF:-1 group-title="Фильмы",КИНОКОМЕДИЯ
+http://dmitry-tv.ddns.net:60/hls/CH_KINOKOMEDIYA.m3u8
+
+#EXTINF:-1 group-title="Фильмы",РОДНОЕ КИНО
+http://dmitry-tv.ddns.net:60/hls/CH_RODNOEKINO.m3u8
+
+#EXTINF:-1 group-title="Фильмы",КИНОМИКС
+http://dmitry-tv.ddns.net:60/hls/CH_KINOMIKS.m3u8
+
+#EXTINF:-1 group-title="Фильмы",КИНОХИТ
+http://dmitry-tv.ddns.net:60/hls/CH_KINOHIT.m3u8
 
 #EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/1011.png",VIP Comedy
 https://bl.uma.media/live/485539/HLS/4614144_1/2/1/playlist.m3u8
@@ -39,68 +81,5 @@ https://bl.uma.media/live/485539/HLS/4614144_1/2/1/playlist.m3u8
 #EXTINF:-1 group-title="Фильмы" tvg-logo="http://epg.it999.ru/img/1012.png",VIP Megahit
 https://bl.uma.media/live/485537/HLS/4614144_1/2/1/playlist.m3u8
 
-#EXTINF:-1 group-title="ЭФИРНЫЕ",Россия 1 HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_RUSSIA1HD.m3u8
-
-#EXTINF:-1 group-title="ЭФИРНЫЕ",НТВ HD
-http://dmitry-tv.ddns.net:60/hls/T2/CH_NTVHD.m3u8
-
-#EXTINF:-1 group-title="ЭФИРНЫЕ",РЕН ТВ HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_RENTVHD.m3u8
-
-#EXTINF:-1 group-title="ЭФИРНЫЕ",СТС HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_STSHD.m3u8
-
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТВ3 HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_TV3HD.m3u8
-
-#EXTINF:-1 group-title="ЭФИРНЫЕ",ТНТ HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_TNTHD.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE
-http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPPREMIERE.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP PREMIERE HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPPREMIEREHD.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT
-http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPMEGAHIT.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP MEGAHIT HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPMEGAHITHD.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP COMEDY
-http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPCOMEDY.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP COMEDY HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPCOMEDYHD.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP SERIAL
-http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPSERIAL.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ViP SERIAL HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_ViPSERIALHD.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000
-http://dmitry-tv.ddns.net:60/hls/okko/CH_TV1000.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",TV1000 HD
-http://dmitry-tv.ddns.net:60/hls/okko/CH_TV1000HD.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",ИНДИЙСКОЕ КИНО
-http://dmitry-tv.ddns.net:60/hls/CH_INDIYSKOEKINO.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОКОМЕДИЯ
-http://dmitry-tv.ddns.net:60/hls/CH_KINOKOMEDIYA.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",РОДНОЕ КИНО
-http://dmitry-tv.ddns.net:60/hls/CH_RODNOEKINO.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОМИКС
-http://dmitry-tv.ddns.net:60/hls/CH_KINOMIKS.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОХИТ
-http://dmitry-tv.ddns.net:60/hls/CH_KINOHIT.m3u8
-
-#EXTINF:-1 group-title="КИНО И СЕРИАЛЫ",КИНОСЕРИЯ
-http://dmitry-tv.ddns.net:60/hls/CH_KINOSERIYA.m3u8
+#EXTINF:-1 group-title="Фильмы",КИНОСЕМЬЯ
+http://185.32.44.154/kinosemya/tracks-v1a1/index.m3u8
